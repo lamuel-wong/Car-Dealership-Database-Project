@@ -96,7 +96,7 @@ INSERT INTO CarTransaction (TransactionID, TransactionType, TransactionDate, Car
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/car-dealership-db.git
+   git clone https://github.com/lamuel-wong/Car-Dealership-Database-Project/tree/main
    ```
 
 2. Set up the database:
