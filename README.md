@@ -105,3 +105,12 @@ INSERT INTO CarTransaction (TransactionID, TransactionType, TransactionDate, Car
 3. Verify installation:
    - Ensure the SQL scripts execute without errors.
 
+## About The Project
+
+This project was designed to gain hands-on experience in database design and implementation by simulating the creation of a functional database for a fictional car dealership. The objectives include:
+
+- Understanding database normalization and relational design principles.
+
+- Practicing SQL scripting for table creation, data insertion, and report generation.
+
+- Developing insights into how databases support business operations.
